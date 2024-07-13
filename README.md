@@ -3,7 +3,7 @@ A simple bash script to install Kali Linux NetHunter in an unrooted android devi
 
 ## Official tutorial blog and video
 
-[**3 Easy Steps To Install Nethunter In Android**](https://amanbytes.com/install-kali-nethunter-in-android/)
+[**3 Easy Steps To Install Nethunter In Android**](https://Nethunter.com-install-kali-nethunter-in-android/)
 
 
 [![Install Nethunter In Termux](https://termux.com)
