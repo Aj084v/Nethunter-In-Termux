@@ -38,4 +38,4 @@ chmod +x nethunter-in-termux.sh
 ```nethunter -r``` - start Kali NetHunter CLI as root.
 
 
-Read step-by-step guide in installing NetHunter In Termux without root by [clicking here.](https://amanbytes.com/install-kali-nethunter-in-android/)
+Read step-by-step guide in installing NetHunter In Termux without root by [clicking here.](https://nethunter.com/install-kali-nethunter-in-android/)
